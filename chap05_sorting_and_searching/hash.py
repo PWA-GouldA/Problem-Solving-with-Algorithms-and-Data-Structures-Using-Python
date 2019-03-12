@@ -5,4 +5,5 @@ def hash(astring, tablesize):
 
     return sum%tablesize
 
-print(hash('abba', 11))
+print(hash('hashing', 11))
+print(hash('hushing', 11))
